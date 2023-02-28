@@ -1,0 +1,28 @@
+- meta:
+    id: 1
+    sku: CH465517080
+    createdAt: 2020-10-01
+  name: Sliding screen tablet
+  description: Slide-able screen tablet/phone usable wherever you go. Also really durable
+  appearance: Season 3
+- meta:
+    id: 2
+    sku: SV4680468050
+    createdAt: 2020-10-02
+  name: Wafers
+  description: Digestible smart electronics that can transmit some kind of experience or meditation to one's head
+  appearance: Season 3
+- meta:
+    id: 3
+    sku: YADA123FOO
+    createdAt: 2023-02-27
+  name: Jho
+  description: Jim's amazing product
+  appearance: Season 31
+- meta:
+    id: 4
+    sku: WHO_CARES
+    createdAt: 2023-02-28
+  name: whoa - this works too
+  description: Wouldn't you like to know
+  appearance: Season 37
